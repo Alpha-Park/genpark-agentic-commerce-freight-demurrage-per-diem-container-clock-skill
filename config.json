@@ -1,0 +1,7 @@
+{
+  "engine": "genpark-mcp-kernel-v1",
+  "skill_id": 323,
+  "skill_name": "genpark-agentic-commerce-freight-demurrage-per-diem-container-clock-skill",
+  "vendor": "GenPark AI",
+  "endpoint": "https://www.genpark.ai/api/v1/skills"
+}
